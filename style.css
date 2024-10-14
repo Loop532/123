@@ -68,22 +68,42 @@ ul {
 }
 
 .card:nth-child(1) {
-  --hue: 165;
+  --hue: 15;
   --saturation: 82.26%;
   --lightness: 51.37%;
 }
 
 .card:nth-child(2) {
-  --hue: 291.34;
+  --hue: 221.34;
   --saturation: 95.9%;
   --lightness: 61.76%;
 }
 
 .card:nth-child(3) {
-  --hue: 338.69;
+  --hue: 3338.69;
   --saturation: 100%;
   --lightness: 48.04%;
 }
+
+.card:nth-child(4) {
+  --hue: 1444444443.69;
+  --saturation: 100%;
+  --lightness: 48.04%;
+ 
+  
+}
+.card:nth-child(5) {
+  --hue: 111111113.69;
+  --saturation: 100%;
+  --lightness: 48.04%;
+}
+
+.card:nth-child(6) {
+  --hue: 31112222.69;
+  --saturation: 100%;
+  --lightness: 48.04%;
+}
+
 
 .card__bullets {
   line-height: 1.4;
