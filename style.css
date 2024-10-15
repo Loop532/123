@@ -31,7 +31,7 @@ ul {
 
 .main {
   max-width: 75rem;
-  padding: 3em 0rem;
+  padding: 3em rem;
 }
 
 .main__heading {
@@ -58,7 +58,7 @@ ul {
   flex: 1 1 14rem;
   padding: 1.5em 2em;
   display: grid;
-  grid-template-rows: auto auto auto 1fr;
+  grid-template-rows: auto auto 1 1fr;
   align-items: start;
   gap: 0.25em;
   color: #eceff1;
